@@ -19,5 +19,5 @@ steps:
     npm install
     npm run build
     npm test
-#  displayNam'npm install, build, and test'  npm test
-  displayName: 'npm install, build, and test'e: 'npm install and build'
+    displayNam'npm install, build, and test'  npm test
+#   displayName: 'npm install, build, and test'e: 'npm install and build'
